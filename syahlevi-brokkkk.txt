@@ -2,4 +2,4 @@ syahlevi brokk
 -saya ingin membuat project dengan solidity
 -saya ingin menjadi blockchain dev
 -membuat tim
--kerja dengan profesional
+-membangun relasi
